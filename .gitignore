@@ -1,0 +1,6 @@
+.idea
+*.pyc
+logs/*
+build/*
+dist/*
+tests/

@@ -1,0 +1,2 @@
+class CommanderUnValid(Exception):
+    pass
